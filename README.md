@@ -36,11 +36,13 @@
     <a href="https://twitter.com/gurramen" target="_blank"><img src="files/twitter_icon.png" width="35" height="35" /></a>
 </div>
 <div align="center">
-    <a href="discord://-/users/300994733805928448" target="_blank"><img src="files/discord_icon.png" width="35" height="35" /></a> 
+    <a href="https://discord.com/users/300994733805928448" target="_blank"><img src="files/discord_icon.png" width="35" height="35" /></a> 
 </div>
 <div align="center">
   <h2>(Click any of the icons!)</h2>
 </div>
+
+&nbsp;
 
 <!--
 **cacara82/cacara82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
