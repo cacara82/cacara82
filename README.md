@@ -5,7 +5,7 @@
 &nbsp;
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=cacara82&Label=Visitors&color=blue&style=flat" alt="Visitor badge"/>
+  <img src="https://komarev.com/ghpvc/?username=cacara82&label=Visitors&color=blue&style=flat" alt="Visitor badge"/>
 </div>
 
 ## :gear: Technologies and languages
