@@ -15,10 +15,14 @@
 
 ## :writing_hand: Other skills & stuff
 [![Skills](https://skillicons.dev/icons?i=ps,pr,ae,ai,git)](#)
-- Bioinformatics (sort of :dna:)
+- Bioinformatics (sort of) :dna:
 - I studied audiovisual edition
 
 ## :zap: Learn more about me
+- :video_game: I am passionate about videogames in general
+- :motorcycle: I also like team-based sports and racing, like MotoGP (as you probably already guessed :cowboy_hat_face:)
+- :notes: Music & relaxing
+- :pencil: I'm currently studying other technologies and skills as I try to come up with ideas for future projects 
 
 ## :globe_with_meridians: Let's connect!
 
