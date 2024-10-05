@@ -36,7 +36,7 @@
     <a href="https://twitter.com/gurramen" target="_blank"><img src="files/twitter_icon.png" width="35" height="35" /></a>
 </div>
 <div align="center">
-    
+    <a href="discord://-/users/300994733805928448" target="_blank"><img src="files/discord_icon.png" width="35" height="35" /></a> 
 </div>
 
 <!--
