@@ -28,14 +28,15 @@
 <div align="center">
     <a href="mailto:cacara890@gmail.com" target="_blank"><img src="files/mail_icon.png" width="35" height="35" /></a>
     <a href="https://www.instagram.com/cacara.82/" target="_blank"><img src="files/instagram_icon.png" width="35" height="35" /></a>
+    <a href="https://www.linkedin.com/in/carlos-carvajal-ramos-709290213/" target="_blank"><img src="files/linkedin_icon.png" width="35" height="35" /></a>
 </div>
 <div align="center">
-    <a href="" target="_blank"><img src="files/linkedin_icon.png" width="35" height="35" /></a>
     <a href="https://gitlab.com/cacara82/" target="_blank"><img src="files/gitlab_icon.png" width="35" height="35" /></a>
-</div>
-<div align="center">
     <a href="https://open.spotify.com/user/goldgamer82" target="_blank"><img src="files/spotify_icon.png" width="35" height="35" /></a>
     <a href="https://twitter.com/gurramen" target="_blank"><img src="files/twitter_icon.png" width="35" height="35" /></a>
+</div>
+<div align="center">
+    
 </div>
 
 <!--
