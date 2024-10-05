@@ -40,8 +40,9 @@
 </div>
 <div align="center">
   <h2>(Click any of the icons!)</h2>
-  &nbsp;
 </div>
+
+&nbsp;
 
 <!--
 **cacara82/cacara82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
