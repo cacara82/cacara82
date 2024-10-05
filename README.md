@@ -27,8 +27,8 @@
 ## :globe_with_meridians: Let's connect!
 <div>
   <ul>
-    <li><a href="mailto:cacara890@gmail.com" target="_blank"><img src="files/mail_icon.png" width="40" height="40" /></a></li>
-    <li><a href="https://www.instagram.com/cacara.82/" target="_blank"><img src="files/instagram_icon.png" width="40" height="40" /></a></li>
+    <li><a href="mailto:cacara890@gmail.com" target="_blank"><img src="files/mail_icon.png" width="25" height="25" /></a></li>
+    <li><a href="https://www.instagram.com/cacara.82/" target="_blank"><img src="files/instagram_icon.png" width="25" height="25" /></a></li>
   </ul>
 </div>
 
