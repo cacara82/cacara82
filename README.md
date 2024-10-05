@@ -3,7 +3,7 @@
 </div>
 
 ## :gear: Technologies and languages
-[![Technologies](https://skillicons.dev/icons?i=html,css,js,php,java,py,sql,mongodb)](#)
+[![Technologies](https://skillicons.dev/icons?i=html,css,js,php,java,py,mysql,mongodb)](#)
 
 ## :writing_hand: Other skills & stuff
 
