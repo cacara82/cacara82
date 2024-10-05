@@ -10,6 +10,7 @@
 
 ## :gear: Technologies and languages
 [![Technologies](https://skillicons.dev/icons?i=html,css,js,php,java,py,mysql,mongodb)](#)
+- Frontend & backend
 - Spanish / Catalan / English
 
 ## :writing_hand: Other skills & stuff
