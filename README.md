@@ -14,6 +14,9 @@
 - Spanish / Catalan / English
 
 ## :writing_hand: Other skills & stuff
+[![Skills](https://skillicons.dev/icons?i=ps,pr,ae,ai,git)](#)
+- Bioinformatics (sort of :dna:)
+- I studied audiovisual edition
 
 ## :zap: Learn more about me
 
