@@ -25,8 +25,7 @@
 - :pencil: I'm currently studying other technologies and skills as I try to come up with ideas for future projects 
 
 ## :globe_with_meridians: Let's connect!
-<div>
-  <label>GMAIL </label>
+- <div>
   <a href="mailto:cacara890@gmail.com" target="_blank"><img src="files/mail_icon.png" width="40" /></a>
 </div>
 
