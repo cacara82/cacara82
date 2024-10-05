@@ -27,7 +27,7 @@
 ## :globe_with_meridians: Let's connect!
 <div>
   <label>GMAIL </label>
-  <a href="mailto:cacara890@gmail.com" target="_blank"><img src="files/mail_icon.png" /></a>
+  <a href="mailto:cacara890@gmail.com" target="_blank"><img src="files/mail_icon.png" width="40" /></a>
 </div>
 
 <!--
