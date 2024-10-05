@@ -25,6 +25,10 @@
 - :pencil: I'm currently studying other technologies and skills as I try to come up with ideas for future projects 
 
 ## :globe_with_meridians: Let's connect!
+<div>
+  <label>GMAIL </label>
+  <a href="mailto:cacara890@gmail.com" target="_blank"><img src="files/mail_icon.png" /></a>
+</div>
 
 <!--
 **cacara82/cacara82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
