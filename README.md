@@ -25,9 +25,17 @@
 - :pencil: I'm currently studying other technologies and skills as I try to come up with ideas for future projects 
 
 ## :globe_with_meridians: Let's connect!
-<div>
-    <a href="mailto:cacara890@gmail.com" target="_blank"><img src="files/mail_icon.png" align="center" width="25" height="25" /></a>
-    <a href="https://www.instagram.com/cacara.82/" target="_blank"><img src="files/instagram_icon.png" align="center "width="25" height="25" /></a>
+<div align="center">
+    <a href="mailto:cacara890@gmail.com" target="_blank"><img src="files/mail_icon.png" width="35" height="35" /></a>
+    <a href="https://www.instagram.com/cacara.82/" target="_blank"><img src="files/instagram_icon.png" width="35" height="35" /></a>
+</div>
+<div align="center">
+    <a href="" target="_blank"><img src="files/linkedin_icon.png" width="35" height="35" /></a>
+    <a href="https://gitlab.com/cacara82/" target="_blank"><img src="files/gitlab_icon.png" width="35" height="35" /></a>
+</div>
+<div align="center">
+    <a href="https://open.spotify.com/user/goldgamer82" target="_blank"><img src="files/spotify_icon.png" width="35" height="35" /></a>
+    <a href="https://twitter.com/gurramen" target="_blank"><img src="files/twitter_icon.png" width="35" height="35" /></a>
 </div>
 
 <!--
