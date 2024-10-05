@@ -1,4 +1,4 @@
-[<img src="https://raw.githubusercontent.com/cacara82/cacara82/cacara82intro.gif" alt="Profile Intro" title="cacara82intro"/>]
+<img src="https://github.com/cacara82/cacara82/blob/2a74c2a76f539a501fd02c3139767e06c2a7c1c5/cacara82intro.gif" alt="Profile Intro" title="cacara82intro"/>
 
 <!--
 **cacara82/cacara82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
