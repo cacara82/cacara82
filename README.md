@@ -1,6 +1,9 @@
-<div style="margin-bottom: 10px;" align="center">
+<div align="center">
   <img src="https://github.com/cacara82/cacara82/blob/2a74c2a76f539a501fd02c3139767e06c2a7c1c5/cacara82intro.gif" alt="Profile Intro" title="Hello! I'm Carlos :)"/>
 </div>
+
+&nbsp;
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=cacara82&Label=Visitors&color=blue&style=flat" alt="Visitor badge"/>
 </div>
