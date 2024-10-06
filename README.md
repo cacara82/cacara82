@@ -38,9 +38,9 @@
 <div align="center">
     <a href="https://discord.com/users/300994733805928448" target="_blank"><img src="files/discord_icon.png" width="35" height="35" /></a> 
 </div>
-<p align="center">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer&reversal=true" />
-</p>
+</div>
 
 <!--
 **cacara82/cacara82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
