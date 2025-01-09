@@ -15,7 +15,7 @@
 
 ## :writing_hand: Other skills & stuff
 [![Skills](https://skillicons.dev/icons?i=ps,pr,ae,ai,git,linux,powershell)](#)
-- Bioinformatics (sort of) :dna:
+- Bioinformatics :dna:
 - I studied audiovisual edition
 
 ## :zap: Learn more about me
