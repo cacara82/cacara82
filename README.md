@@ -9,7 +9,7 @@
 </div>
 
 ## :gear: Technologies and languages
-[![Technologies](https://skillicons.dev/icons?i=html,css,js,php,java,py,mysql,mongodb)](#)
+[![Technologies](https://skillicons.dev/icons?i=html,css,js,angular,react,vite,php,java,py,mysql,mongodb)](#)
 - Frontend & backend
 - Spanish / Catalan / English
 
