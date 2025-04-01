@@ -9,7 +9,7 @@
 </div>
 
 ## :gear: Technologies and languages
-[![Technologies](https://skillicons.dev/icons?i=html,css,js,angular,react,vite,php,java,py,mysql,mongodb)](#)
+[![Technologies](https://skillicons.dev/icons?i=html,css,js,angular,react,vite,php,java,py,mysql,mongodb,R)](#)
 - Frontend & backend
 - Spanish / Catalan / English
 
@@ -19,10 +19,9 @@
 - I studied audiovisual edition
 
 ## :zap: Learn more about me
-- :video_game: I am passionate about videogames in general
-- :motorcycle: I also like team-based sports and racing, like MotoGP (as you probably already guessed :cowboy_hat_face:)
+- :video_game: I am passionate about audiovisual projects and sports
 - :notes: Music & relaxing
-- :pencil: I'm currently studying other technologies and skills as I try to come up with ideas for future projects 
+- :pencil: I'm currently doing an internship, learning other technologies as I try to come up with ideas for future projects 
 
 ## :globe_with_meridians: Let's connect!
 <div align="center">
