@@ -25,9 +25,9 @@
 
 ## :globe_with_meridians: Let's connect!
 <div align="center">
-    <a href="mailto:cacara890@gmail.com" target="_blank"><img src="files/mail_icon.png" width="35" height="35" style="margin: 0 15px;" /></a>
-    <a href="https://www.linkedin.com/in/carlos-carvajal-ramos-709290213/" target="_blank"><img src="files/linkedin_icon.png" width="35" height="35" style="margin: 0 15px;" /></a>
-    <a href="https://gitlab.com/cacara82/" target="_blank"><img src="files/gitlab_icon.png" width="35" height="35" style="margin: 0 15px;" /></a>
+    <a href="mailto:cacara890@gmail.com" target="_blank"><img src="files/mail_icon.png" width="35" height="35" style="margin: 0 30px;" /></a>
+    <a href="https://www.linkedin.com/in/carlos-carvajal-ramos-709290213/" target="_blank"><img src="files/linkedin_icon.png" width="35" height="35" style="margin: 0 30px;" /></a>
+    <a href="https://gitlab.com/cacara82/" target="_blank"><img src="files/gitlab_icon.png" width="35" height="35" style="margin: 0 30px;" /></a>
 </div>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer&reversal=true" />
