@@ -7,6 +7,9 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=cacara82&label=Visitors&color=blue&style=flat" alt="Visitor badge"/>
 </div>
+<div align="center">
+  <img src="https://spotify-badge-fz8z-fn1xjd6lf-cacara82s-projects.vercel.app/api/now-playing.svg" />
+</div>
 
 ## :gear: Technologies and languages
 [![Technologies](https://skillicons.dev/icons?i=html,css,js,angular,react,vite,php,laravel,java,py,mysql,mongodb,r)](#)
