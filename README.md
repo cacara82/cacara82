@@ -11,7 +11,7 @@
 &nbsp;
 
 <div align="center">
-  <img src="https://spotify-badge-fz8z-fn1xjd6lf-cacara82s-projects.vercel.app/api/now-playing.svg" width="540" height="52"/>
+  <img src="https://spotify-badge-fz8z.vercel.app/api/now-playing.svg" width="540" height="52"/>
 </div>
 
 ## :gear: Technologies and languages
