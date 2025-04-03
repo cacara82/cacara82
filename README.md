@@ -14,6 +14,8 @@
   <img src="https://spotify-badge-fz8z.vercel.app/api/now-playing.svg" width="540" height="52"/>
 </div>
 
+&nbsp;
+
 ## :gear: Technologies and languages
 [![Technologies](https://skillicons.dev/icons?i=html,css,js,angular,react,vite,php,laravel,java,py,mysql,mongodb,r)](#)
 - Frontend & backend
