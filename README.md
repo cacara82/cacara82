@@ -27,9 +27,9 @@
 - I studied audiovisual edition
 
 ## :zap: Learn more about me
-- :video_game: I am passionate about audiovisual projects and sports
+- :video_game: I am passionate about audiovisual projects, videogames and sports
 - :notes: Music & relaxing
-- :pencil: I'm currently doing an internship, learning other technologies as I try to come up with ideas for future projects 
+- :pencil: I'm currently doing an internship as a Data Manager, learning other technologies as I try to come up with ideas for future projects 
 
 ## :globe_with_meridians: Let's connect!
 <div align="center">
